@@ -15,15 +15,15 @@ It powers a student admissions system and showcases my ability to design and dep
 
 ## What This Project Shows
 
-✅ Deploying a web app on an EC2 instance  
-✅ Hosting a MySQL database with Amazon RDS  
-✅ Creating and isolating a VPC with subnets  
-✅ Using Secrets Manager to secure database credentials  
-✅ Setting up load balancing with an Application Load Balancer  
-✅ Auto Scaling EC2 instances to handle load  
-✅ Managing security groups for protection  
-✅ Estimating cost with AWS Pricing Calculator  
-✅ Load testing to ensure the app scales and performs
+ Deploying a web app on an EC2 instance  
+ Hosting a MySQL database with Amazon RDS  
+ Creating and isolating a VPC with subnets  
+ Using Secrets Manager to secure database credentials  
+ Setting up load balancing with an Application Load Balancer  
+ Auto Scaling EC2 instances to handle load  
+ Managing security groups for protection  
+ Estimating cost with AWS Pricing Calculator  
+ Load testing to ensure the app scales and performs
 
 ---
 
