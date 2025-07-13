@@ -29,7 +29,8 @@ It powers a student admissions system and showcases my ability to design and dep
 
 ## Architecture Overview
 
-![Architecture Diagram](architecture/Architecture Diagram.jpeg)
+![Architecture Diagram](architecture/architecture-diagram.jpeg)
+
 
 The app runs in:
 - **2 public subnets** for EC2 web servers
