@@ -56,18 +56,18 @@ The app runs in:
 ## Project Files
 
 | Folder               | Contents                                  |
-|----------------------|-------------------------------------------|
+|--------------------- |-------------------------------------------|
 | `architecture/`      | AWS architecture diagram                  |
 | `screenshots/`       | UI screenshots & demo GIF                 |
+| `video-demo/`        | Full video walkthrough                    |
 | `deployment-scripts/`| Shell scripts used for setup              |
 
 ---
 
-## Author
+## About Me
 
-**Emmanuel Ikhimwin**  
-Master of Artificial Intelligence | Western Sydney University  
-[GitHub Profile](https://github.com/ikhimwinemmanuel)
+I am **Emmanuel Ikhimwin**  **A Masters of Artificial Intelligence Student** at **Western Sydney University**.  
+This project helped me apply AWS services to build a secure, scalable cloud applications.
 
 ---
 
